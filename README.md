@@ -15,7 +15,7 @@ This is a simple Streamlit app that allows you to paste a **YouTube video URL** 
 
 ---
 ## 📦 Installation
--pip install -r requirements.txt
+- pip install -r requirements.txt
 ### 1. Clone the repository
 
 ```bash
